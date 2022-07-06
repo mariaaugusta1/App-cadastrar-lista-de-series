@@ -1,0 +1,15 @@
+C:\Duda - Arquivos pessoais\DIO\Geracao Tech Unimed-BH Fullstack\desafio\Series\bin\Debug\net6.0\Series.exe
+C:\Duda - Arquivos pessoais\DIO\Geracao Tech Unimed-BH Fullstack\desafio\Series\bin\Debug\net6.0\Series.deps.json
+C:\Duda - Arquivos pessoais\DIO\Geracao Tech Unimed-BH Fullstack\desafio\Series\bin\Debug\net6.0\Series.runtimeconfig.json
+C:\Duda - Arquivos pessoais\DIO\Geracao Tech Unimed-BH Fullstack\desafio\Series\bin\Debug\net6.0\Series.dll
+C:\Duda - Arquivos pessoais\DIO\Geracao Tech Unimed-BH Fullstack\desafio\Series\bin\Debug\net6.0\Series.pdb
+C:\Duda - Arquivos pessoais\DIO\Geracao Tech Unimed-BH Fullstack\desafio\Series\obj\Debug\net6.0\Series.csproj.AssemblyReference.cache
+C:\Duda - Arquivos pessoais\DIO\Geracao Tech Unimed-BH Fullstack\desafio\Series\obj\Debug\net6.0\Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Duda - Arquivos pessoais\DIO\Geracao Tech Unimed-BH Fullstack\desafio\Series\obj\Debug\net6.0\Series.AssemblyInfoInputs.cache
+C:\Duda - Arquivos pessoais\DIO\Geracao Tech Unimed-BH Fullstack\desafio\Series\obj\Debug\net6.0\Series.AssemblyInfo.cs
+C:\Duda - Arquivos pessoais\DIO\Geracao Tech Unimed-BH Fullstack\desafio\Series\obj\Debug\net6.0\Series.csproj.CoreCompileInputs.cache
+C:\Duda - Arquivos pessoais\DIO\Geracao Tech Unimed-BH Fullstack\desafio\Series\obj\Debug\net6.0\Series.dll
+C:\Duda - Arquivos pessoais\DIO\Geracao Tech Unimed-BH Fullstack\desafio\Series\obj\Debug\net6.0\refint\Series.dll
+C:\Duda - Arquivos pessoais\DIO\Geracao Tech Unimed-BH Fullstack\desafio\Series\obj\Debug\net6.0\Series.pdb
+C:\Duda - Arquivos pessoais\DIO\Geracao Tech Unimed-BH Fullstack\desafio\Series\obj\Debug\net6.0\Series.genruntimeconfig.cache
+C:\Duda - Arquivos pessoais\DIO\Geracao Tech Unimed-BH Fullstack\desafio\Series\obj\Debug\net6.0\ref\Series.dll
